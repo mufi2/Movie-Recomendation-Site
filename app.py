@@ -35,9 +35,9 @@ def recommend(movie):
 
 # Load movies data and similarity matrix
 
-movies = pd.read_pickle("D:\Projects\Movie Recomendation System\Model\movie_list.pkl")
+movies = pd.read_pickle("movie_list.pkl")
 similarity = pd.read_pickle(
-    "D:\Projects\Movie Recomendation System\Model\similarity.pkl"
+    "similarity.pkl"
 )
 
 # Streamlit app layout
