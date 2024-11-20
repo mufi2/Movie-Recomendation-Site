@@ -136,4 +136,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 I am a passionate data enthusiast and engineer with experience in building data-driven applications. This project is a part of my portfolio, showcasing my ability to integrate machine learning with web technologies to create impactful solutions.
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/mashfiq-khan-937657127) or explore my [GitHub](https://github.com/mufi2) for more exciting projects!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mashfiq-khan-937657127/) or explore my [GitHub](https://github.com/mufi2) for more exciting projects!
