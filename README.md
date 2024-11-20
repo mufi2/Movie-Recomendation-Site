@@ -8,7 +8,7 @@ Welcome to the **IMDb Movie Recommendation System**, an interactive project that
 ## 🚀 Key Features
 
 1. **Personalized Recommendations:** Suggests movies based on similarity metrics.
-2. **Interactive User Interface:** Built with [Streamlit](https://streamlit.io/), offering a clean and responsive design.
+2. **Interactive User Interface:** Built with [Streamlit](https://lxei9hyyfskbrkjphuvh7i.streamlit.app/), offering a clean and responsive design.
 3. **Dynamic Movie Posters:** Fetches posters via The Movie Database (TMDb) API for a visually appealing experience.
 
 ---
@@ -74,19 +74,15 @@ Launch the Streamlit app:
 ```bash
 streamlit run app.py
 ```
-
-### Note:
-You will need an API key from [TMDb](https://www.themoviedb.org/) to fetch movie posters. Replace the placeholder API key in `app.py` with your own.
-
 ---
 
 ## 🎬 Demo
 
 ### 1. Select a Movie:
-![Movie Selection Screenshot](path-to-your-image)
+![Movie Selection Screenshot](https://github.com/user-attachments/assets/cda53bf2-272e-444b-a913-595767b9668b)
 
 ### 2. Get Recommendations:
-![Recommendations Screenshot](path-to-your-image)
+![Recommendations Screenshot](https://github.com/user-attachments/assets/73016784-6976-4ed6-bdb3-5c6bb0805d62)
 
 ---
 
@@ -140,4 +136,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 I am a passionate data enthusiast and engineer with experience in building data-driven applications. This project is a part of my portfolio, showcasing my ability to integrate machine learning with web technologies to create impactful solutions.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or explore my [GitHub](https://github.com/your-username) for more exciting projects!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/mashfiq-khan-937657127) or explore my [GitHub](https://github.com/mufi2) for more exciting projects!
